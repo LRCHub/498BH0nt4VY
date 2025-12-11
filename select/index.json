@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "あくび",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-11T08:39:36.590044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あくび",
+      "artist": "Suga Shikao",
+      "has_synced": true,
+      "path": "select/01_あくび_Suga_Shikao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あくび",
+      "artist": "Whiteberry",
+      "has_synced": true,
+      "path": "select/02_あくび_Whiteberry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あくび",
+      "artist": "クボタカイ",
+      "has_synced": true,
+      "path": "select/03_あくび_クボタカイ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あくび",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_あくび_Tele.txt"
+    }
+  ]
+}
